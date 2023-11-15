@@ -1,6 +1,6 @@
 TsvHttpData-1.0
 http://wwwuser.gwdg.de/~compbiol/data/hhsuite/databases/hhsuite_dbs/old-releases/pdb70_from_mmcif_200401.tar.gz
-https://files.wwpdb.org/pub/pdb/derived_data/pdb_seqres.tx
+https://files.wwpdb.org/pub/pdb/derived_data/pdb_seqres.txt
 https://ftp.ebi.ac.uk/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_trembl.fasta.gz
 https://ftp.ebi.ac.uk/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.fasta.gz
 https://ftp.ebi.ac.uk/pub/databases/uniprot/uniref/uniref90/uniref90.fasta.gz
