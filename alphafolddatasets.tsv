@@ -1,0 +1,11 @@
+TsvHttpData-1.0
+https://storage.googleapis.com/alphafold/alphafold_params_2022-12-06.tar
+https://storage.googleapis.com/alphafold-databases/casp14_versions/bfd_metaclust_clu_complete_id30_c90_final_seq.sorted_opt.tar.gz
+https://storage.googleapis.com/alphafold-databases/v2.3/mgy_clusters_2022_05.fa.gz
+http://wwwuser.gwdg.de/~compbiol/data/hhsuite/databases/hhsuite_dbs/old-releases/pdb70_from_mmcif_200401.tar.gz
+https://files.wwpdb.org/pub/pdb/derived_data/pdb_seqres.tx
+https://storage.googleapis.com/alphafold-databases/reduced_dbs/bfd-first_non_consensus_sequences.fasta.gz
+https://ftp.ebi.ac.uk/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_trembl.fasta.gz
+https://ftp.ebi.ac.uk/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.fasta.gz
+https://storage.googleapis.com/alphafold-databases/v2.3/UniRef30_2021_03.tar.gz
+https://ftp.ebi.ac.uk/pub/databases/uniprot/uniref/uniref90/uniref90.fasta.gz
